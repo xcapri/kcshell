@@ -7,4 +7,4 @@ gw coba buat sebisanya buat ngilangin malas :v
 command : php kcf.php example.com path/to/kcfinder/upload.php path/to/shell
 
 
-![image](https://ardalis.com/wp-content/uploads/2018/10/copy-image-into-issue-768x514.png)
+![image](https://github.com/xcapri/kcshell/blob/master/kc60.png)
