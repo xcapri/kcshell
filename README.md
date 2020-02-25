@@ -1,4 +1,6 @@
 # kcshell
+kcfinder auto reverse ip + upshell
+
 Ketika gw nemu web vuln kcfinder tapi males buat reverse ip > cek path > upshell one by one
 gw coba buat sebisanya buat ngilangin malas :v
 
