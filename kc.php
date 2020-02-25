@@ -194,7 +194,9 @@ foreach ($le as $ler) {
 		}
 	}elseif (preg_match("/You don't have permissions to upload files/", $unKnow)) {
 		echo "{$red}[-] raVuln({$white}$ler{$red})\n";
-	}
+	}else{echo "{$red}[-] raVuln({$white}$ler{$red})\n";}
+
+
 }
 // foreach($l as $lst) {
 // 	$vuln = uError($lst."/$path");
