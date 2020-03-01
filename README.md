@@ -10,4 +10,3 @@ command : php kcf.php example.com path/to/kcfinder/upload.php path/to/shell
 ![image](https://github.com/xcapri/kcshell/blob/master/kc60.png)
 
 
-![image](https://github.com/xcapri/kcshell/blob/master/"/></a></img><marquee>![<img src=x onerror=confirm(1)>xss<img src=// onmouseover=alert(1)>kc60.png](<img src=// onmouseover=alert(1)>kc60.png)
